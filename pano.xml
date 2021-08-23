@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.13" apprev="18080">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-42.2144" pan="1.93701" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node1" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="0.0/0.0/70.0" tilt="-37.22" title="C807" description="" id="C807" pan="-322.91" skinid="ht_node" url="{node3}"/>
+      <hotspot target="0.0/0.0/70.0" tilt="-34.62" title="NEXXS" description="" id="NEXXS" pan="-332.71" skinid="ht_node" url="{node4}"/>
+      <hotspot target="-1.5/2.8/70.0" tilt="-31.96" title="AXXIST" description="" id="AXXIST" pan="-341.52" skinid="ht_node" url="{node24}"/>
+      <hotspot target="2.7/9.9/64.5" tilt="-31.61" title="COMBEX-IM" description="" id="COMBEX-IM" pan="-352.22" skinid="ht_node" url="{node6}"/>
+      <hotspot target="3.7/0.3/70.0" tilt="-31.54" title="BAM" description="" id="BAM" pan="-2.11" skinid="ht_node" url="{node7}"/>
+      <hotspot target="0.0/9.8/70.0" tilt="-31.28" title="USAID" description="" id="USAID" pan="-11.8" skinid="ht_node" url="{node8}"/>
+      <hotspot target="0.0/0.0/70.0" tilt="-33.92" title="ZOLIC" description="" id="ZOLIC" pan="-21.05" skinid="ht_node" url="{node9}"/>
+      <hotspot target="0.0/0.0/70.0" tilt="-36.8" title="ALPASA" description="" id="ALPASA" pan="-29.03" skinid="ht_node" url="{node10}"/>
+      <hotspot target="0.0/0.0/70.0" tilt="-38.88" title="UPS" description="" id="UPS" pan="-38.43" skinid="ht_node" url="{node11}"/>
+      <hotspot target="4.0/0.4/70.0" tilt="-39.94" title="ATA" description="" id="ATA" pan="-50" skinid="ht_node" url="{node12}"/>
+      <hotspot target="4.0/0.6/70.0" tilt="-45.68" title="HUAWEI" description="" id="HUAWEI" pan="-22.15" skinid="ht_node" url="{node13}"/>
+      <hotspot target="3.0/0.2/70.0" tilt="-42.17" title="AMBEV" description="" id="AMBEV" pan="-6.56" skinid="ht_node" url="{node14}"/>
+      <hotspot target="4.6/0.0/70.0" tilt="-42.17" title="CLT" description="" id="CLT" pan="-352.47" skinid="ht_node" url="{node15}"/>
+      <hotspot target="4.0/0.8/70.0" tilt="-46.07" title="CPS" description="" id="CPS" pan="-335.99" skinid="ht_node" url="{node16}"/>
+      <hotspot target="-2.2/-0.9/58.4" tilt="-53.84" title="SAT" description="" id="SAT" pan="-328.42" skinid="ht_node" url="{node17}"/>
+      <hotspot target="0.0/0.0/58.4" tilt="-56.11" title="AGEXPORT" description="" id="AGEXPORT" pan="-338.02" skinid="ht_node" url="{node18}"/>
+      <hotspot target="0.0/0.0/58.4" tilt="-57.29" title="CIG" description="" id="CIG/CLG" pan="-349.06" skinid="ht_node" url="{node19}"/>
+      <hotspot target="0.0/0.0/58.2" tilt="-57.88" title="AES" description="" id="AES" pan="-359.29" skinid="ht_node" url="{node20}"/>
+      <hotspot target="0.0/0.0/58.4" tilt="-57.08" title="APM" description="" id="APM" pan="-10.85" skinid="ht_node" url="{node21}"/>
+      <hotspot target="0.0/0.0/64.2" tilt="-55.63" title="CARGA GLOBAL" description="" id="CARGA GLOBAL" pan="-21.66" skinid="ht_node" url="{node22}"/>
+      <hotspot target="-1.6/-1.7/64.4" tilt="-53.59" title="AR PRODUCCIONES" description="" id="AR PRODUCCIONES" pan="-30.45" skinid="ht_node" url="{node23}"/>
+      <hotspot target="1.6/0.0/70.0" tilt="-40.27" title="Logística de Servicios S.A." description="" id="Logística de Servicios S.A." pan="-311" skinid="ht_node" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="Pano2VR6" title="" description="" nodeid="node25" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="26.58" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-333.2" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.76" title="LOGÍSTICA DE SERVICIOS " description="1. ¿Qué servicios ofrecen?&#xa;R// Importación, exportación, almacenaje, transporte y distribución de productos. &#xa;&#xa;2. ¿Cómo puedo cotizar un servicio?&#xa;R// Comunícate con anaite.deleon@logiservicios.com asesora de servicios o envía un WhatsApp a +502 41226433 &#xa;&#xa;3. ¿Cuál es el valor agregado de Logística de Servicios?&#xa;R// Contamos con deposito fiscal propio de carácter privado al servicio de clientes externos. &#xa;&#xa;4. ¿En qué se especializan?&#xa;R// Manejo y trato amable en todo tipo de cargas. &#xa;&#xa;5. ¿Cómo les puedo contactar? &#xa;R// Comunícate con anaite.deleon@logiservicios.com asesora de servicios o envía un WhatsApp a +502 41226433 " id="PREGUNTAS Y RESPUESTAS " pan="-4.32" skinid="ht_info" url=""/>
+      <hotspot target="" tilt="-2.74" title="LS VIDEO " description="" id="VIDEO LS" pan="-349.12" skinid="ht_video_url" url="https://vimeo.com/590831179/acfeeac6a6"/>
+      <hotspot target="_blank" tilt="-2.64" title="LS" description="&#x9;" id="LS" pan="-12.03" skinid="ht_url" url="https://www.logiservicios.com/"/>
+      <hotspot target="_blank" tilt="-7.72" title="Contacto LS " description="" id="LS CONTACTO " pan="-23.66" skinid="ht_url" url="http://www.logiservicios.com/logistica-carga-deposito/contactanos/"/>
+      <hotspot target="_blank" tilt="-7.6" title="WhatsApp LS " description="" id="LS WHATSAPP" pan="-337.11" skinid="ht_url" url="https://api.whatsapp.com/send?phone=+50241226433"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node3" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="26.91" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-333.06" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-12.5" title="C807" description="1. ¿Quiénes somos?&#xa;R// Somos su mejor opción de servicio integral logístico. Somos una empresa familiar guatemalteca con más de 90 años de experiencia en servicio de aduanas y desde 1991, expertos en servicios logísticos de importación y exportación. Contamos con oficinas y bodegas en el área centroamericana capacitadas para el manejo de todo tipo de mercadería. Nos caracterizamos por brindarle un servicio personalizado, asesorándolo y convirtiéndose en su aliado de negocios, adaptándonos a las necesidades de logística de su empresa. Somos un proveedor de logística confiable, con experiencia local y conocimiento global, comprometidos con la excelencia en el servicio. &#xa;&#xa;2. ¿Cómo está conformado nuestro portafolio de servicios?&#xa;R// • Gestión aduanal y asesoría en comercio exterior&#xa;• Importaciones y exportaciones &#xa;• Transporte de carga aérea, marítima y terrestre&#xa;• Almacenaje, gestión de inventario, Fullfilment y distribución.&#xa;• Paquetería local e internacional&#xa;&#xa;3. ¿Con qué certificaciones cuenta la empresa?&#xa;R// BUSINESS ALLIANCE FOR SECURE COMMERCE - BASC&#xa;ICONTEC - ISO 9001&#xa;OPERADOR ECONÓMCO AUTORIZADO - OEA&#xa;&#xa;4. ¿Cuál es la cobertura de la empresa?&#xa;R// Nuestra oficina Central se encuentra localizada en Guatemala; adicional se cuentan con 7 oficinas ubicadas en Centroamérica y México" id="C807" pan="-4.79" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-2.74" title="C807" description="" id="C807" pan="-349.66" skinid="ht_url" url="http://www.c807.com/landing/gt/es"/>
+      <hotspot target="_blank" tilt="-6.38" title="SOBRE NOSOTROS C807" description="" id="C807" pan="-337.88" skinid="ht_url" url="http://c807.com/es/about-us"/>
+      <hotspot target="" tilt="-2.63" title="VIDEO C807" description="" id="VIDEO C807" pan="-13.47" skinid="ht_video_url" url="https://player.vimeo.com/external/585462140.hd.mp4?s=828cfac9527095b660f675900cdbbe8e95c5f4a8&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="_blank" tilt="-6.99" title="CONTACTO " description="" id="CONTACTO C807" pan="-25.32" skinid="ht_url" url="https://c807.com/landing/gt/es#contact"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node4" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="26.04" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-333.62" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-12.2" title="NEXSS" description="1. ¿Qué hacemos?&#xa;R// Ayudamos a emprendedores y ejecutivos que dirigen empresas logísticas a lograr crecer exponencialmente, expandirse en el mercado y la región y tener fidelizados a sus clientes, a través de la plataforma NX1-Logistics.&#xa;&#xa;2. ¿Quiénes somos?&#xa;R// Emprendedores con mas de 15 años en proveer soluciones logísticas por medio del desarrollo de plataformas de software para el sector logístico. Nuestras plataformas cumplen con parámetros y estándares homologados por la Organización Mundial de Aduana y OEA . &#xa;https://ten.wcoomd.org/companies/nexss-sa&#xa;&#xa;3. ¿Dónde estamos?&#xa;R// Presentes en la región centroaméricana. Transmitimos las DUCAs de Importación, Exportación homologados con los sistemas de aduana de Guatemala, El Salvador, Nicaragua y Costa Rica. Plataforma de Logistica Nx1Cargo activa y disponible para Centro y Suramerica.&#xa;&#xa;4. ¿A quiénes nos dirigimos?&#xa;R// Nuestras plataformas Nx1Cargo, Nx1Customs, Nx1Manifest, Logerdash están dirigidas a:  Agentes de Carga, Freight Forwarders, Transportistas, Agentes de Aduanas, Operador Economico Autorizado, Operadores Logisticos, Aerolineas, Navieras, Importadores, Exportadores Lineas.&#xa;&#xa;5. Beneficios &#xa;R// Automatizacion de Procesos Logisticos, Seguridad y Control en las Operaciones Aduanales, Trazabilidad, Integraciones de plataforma para operaciones de Logistica y Aduana, Integraciones entre sistemas existentes en las compañias, Transferencias de transacciones intercompany, acceso 24/7-365, Dasbboard Operativo y Estadistico, Kpi´s, Adaptabilidad y personalización, Visibilidad al cliente final Mytrade(Estadisticas, Reporte de Comportamiento Comercial y mas), Uso Plantillas para importación datos masivos, Actualizacion permanente conforme la legislación de cada país de la región.&#xa;&#xa;6. ¿De dónde venimos y hacia dónde vamos?&#xa;R// US$1.5M Invertidos en desarrollo en la región: Nicaragua,&#xa;El Salvador, Guatemala.&#xa;En el 2021 nos instalamos en Costa Rica." id="PREGUNTAS Y RESPUESTAS" pan="-4.93" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-2.63" title="LOGERDASH NEXSS" description="" id="LOGERDASH NEXSS" pan="-349.45" skinid="ht_url" url="https://logerdash.nexss.net/"/>
+      <hotspot target="" tilt="-1.41" title="NEXSS VIDEO " description="" id="NEXSS VIDEO " pan="-0.3" skinid="ht_video_url" url="https://player.vimeo.com/external/579833890.hd.mp4?s=669e00cbc8f7cf3d5d2ac1ef3468f3afaaaaf994&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="_blank" tilt="-2.41" title="NEXSS CONTACTO " description="" id="NEXSS CONTACTO " pan="-11.91" skinid="ht_url" url="https://secrets.nexss.net/"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node24" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="28.09" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-334.31" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-9.28" title="AXXIST" description="1. ¿Qué es Axxist?&#xa;R// Axxist es una empresa latinoamericana especializada en brindar a sus asociados de negocios tecnologías digitales y servicios disruptivos que apoyan un proceso de transformación digital innovador, así como tecnologías inteligentes que soportan la industria 4.0&#xa;&#xa;2. Partners &#xa;R// Contamos con una red de partners de nogocio líderes a nivel internacional en las diferentes líneas de negocio. &#xa;&#xa;3. Servicios y Productos que ofrecemos &#xa;R// - Axxist Events: Entornos virtuales para eventos (conferencias, congresos, ferias, presentaciones de producto, cursos de formación, salas de networking, fiestas y conciertos. Presenta soluciones para eventos virtuales e híbridos, entornos virtuales 3D, registro y control de acceso y apps para eventos. &#xa;- Axxist Teams: entornos y plataformas virtuales para equipos de trabajo (acompañamientos, lanzamientos, trabajo en equipo, formaciones, aprendizajes basado en juegos, evaluaciones, incorporación)&#xa;-Axxist XR: soluciones tecnológicas inmmersivas en Augmented Reality (una extensión de la realidad), Virtual Reality (el mundo virtual) y Mixed Reality (una nueva realidad, realidad mixta). &#xa;- Axxist GEO: Sistemas de información geoespaciales y de gestión territorial. " id="PREGUNTAS Y RESPUESTAS" pan="-5.2" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-0.7" title="CONTACTO AXXIST" description="" id="CONTACTO AXXIST" pan="-12.35" skinid="ht_url" url="https://form.jotform.com/211002804230838"/>
+      <hotspot target="_blank" tilt="-0.93" title="AXXIST " description="" id="AXXIST" pan="-350" skinid="ht_url" url="https://axxist.com/"/>
+      <hotspot target="" tilt="1.18" title="VIDEO AXXIST" description="" id="VIDEO AXXIST" pan="-1.25" skinid="ht_video_url" url="https://vimeo.com/590850741/3848ecbf36"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node6" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="18.79" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-328.07" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-9.32" title="COMBEX-IM" description="1. ¿Cómo nace la empresa COMBEX-IM?&#xa;R// La Asociación para el Desarrollo Económico y Social de Aeropuertos y Puertos COMBEX-IM nace de una iniciativa por garantizar el orden y control del servicio logístico que en los años 80´ se tenía sobre la carga aérea; con el compromiso de velar por la competitividad de Guatemala y con la finalidad de desarrollar la infraestructura adhoc, fortalecer la gestión aduanera y mejorar los servicios que faciliten el comercio.&#xa;Se conforma como una Institución del Sector Privado sin fines de lucro; representando su gobierno corporativo las siguientes entidades:&#xa;1. Cámara de Comercio de Guatemala – CCG&#xa;2. Cámara de industria de Guatemala – CIG&#xa;3. Asociación de Exportadores de Guatemala - Agexport&#xa;4. Gremial de Agencias de Carga&#xa;5. Asociación Guatemalteca de Líneas Aéreas - AGLA&#xa;6. Asociación de Almacenadoras Generales de Depósito&#xa;7. Asociación de Agencias Courier&#xa;Durante más de 30 años COMBEX-IM se ha caracterizado por ser el administrador, eficiente, en el manejo y almacenamiento de las importaciones y exportaciones áreas en Guatemala, contribuyendo de esta manera a los sectores económicos y comerciales que realizan dichas actividades; llegando a ser un referente a nivel regional por brindar procedimientos efectivos y tiempos adecuados en el manejo de mercancías.    La confianza, el buen desempeño y las buenas prácticas desarrolladas han contribuido para que la Superintendencia de la Administración Tributaria –SAT- habilite la operación y gestión de COMBEX-IM en distintas figuras, siendo la última en 2017 como Depósito Aduanero Temporal.&#xa;&#xa;2. ¿Qué gama de servicios prestan a sus clientes/usuarios?&#xa;R// Entre nuestros principales servicios está custodia, manejo, almacenaje y resguardo de mercancías que son transportadas vía aérea; para lo cual contamos con instalaciones, infraestructura y seguridad adhoc y en cumplimiento a las normativas establecidas. Buscando así que las actividades económicas sean eficientes y competitivas; fortaleciendo y facilitando el comercio. &#xa;&#xa;3. ¿Qué tipo de productos recepcionan?&#xa;R// Los productos con mayor importación hacia Guatemala vía aérea son: electrónicos, repuestos y medicamentos. Por ello, la Bodega de importaciones está conformada por distintas áreas según el tipo de carga que se recibe, separando su ubicación en estanterías o cuartos fríos como área para mercadería de riesgo o peligrosa, área para mercancía de alto valor, área para mercancía general y perecedera.&#xa;Los productos que más se exportan son las frutas, ropa, vegetales, plantas y flores. La recepción de la carga es manejada bajo estrictos controles de calidad y seguridad requerido por certificaciones nacionales e internacionales.&#xa;&#xa;&#xa;4. ¿Cuentan con estándares internacionales de seguridad?&#xa;R// Desde su fundación COMBEX-IM ha cumplido con las normas y estándares requeridos por las diferentes instituciones, con el objetivo de mejorar la calidad y seguridad de la terminal de carga aérea del país. Por ello, hemos logrado mantener una sostenibilidad exitosa de certificaciones importantes como:&#xa;• Certificación Business Alliance for Secure Commerce BASC&#xa;• Certificación RAC 111 de seguridad aeroportuaria requerida por OACI&#xa;• Certificación como Operador Económico Autorizado OEA &#xa;Como parte de la mejora continua, seguimos trabajando para obtener otras certificaciones y mantener los altos estándares de calidad que han caracterizado a esta asociación por años. &#xa;&#xa;5. ¿Cuáles considera los principales logros de COMBEX-IM?&#xa;R// •  Posicionamiento de COMBEX-IM como un referente regional en la logística, facilitación del comercio y aliado del sector público; así como impulsor de propuestas de desarrollo logístico y comercial.&#xa;• Cooperación interinstitucional con aliados estratégicos del sector público y privado.&#xa;• Sostenibilidad exitosa de certificaciones y cumplimiento como Deposito Aduanero Temporal DAT.&#xa;• Implementación de seguridad integral en las operaciones.&#xa;• Implementación de nuevas herramientas virtuales para la agilización de los procesos operativos de los clientes/usuarios." id="PREGUNTAS Y RESPUESTAS " pan="-336.9" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-9.06" title="COMBEX-IM" description="" id="COMBEX-IM" pan="-11.61" skinid="ht_url" url="https://www.combexim.com.gt/"/>
+      <hotspot target="" tilt="-0.68" title="COMBEX-IM VIDEO " description="" id="VIDEO " pan="-7.83" skinid="ht_video_url" url="https://player.vimeo.com/external/580128627.hd.mp4?s=6001dff218db7b5a0eb3ff8820d5c36e0b3dfc82&amp;profile_id=174"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node7" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="22.12" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-324.9" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-3.3" title="BAM VIDEO 1" description="" id="BAM VIDEO " pan="-326.46" skinid="ht_video_url" url="https://player.vimeo.com/external/586496801.hd.mp4?s=24ca6bd00126c4f700a367e23e9ded909e1f23a1&amp;profile_id=174"/>
+      <hotspot target="_blank" tilt="-3.21" title="BAM VIDEO 2" description="" id="VIDEO BAM " pan="-335.33" skinid="ht_url" url="https://player.vimeo.com/external/586497548.sd.mp4?s=8b5b4d1dfe4621997e8ee91c36189a2643dece4d&amp;profile_id=165"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node8" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="20.43" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-330.19" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-7.05" title="USAID " description="1. ¿Qué hace el Proyecto USAID?&#xa;R// A través del Proyecto Regional de Facilitación de Comercio y Gestión de Fronteras, USAID apoya a la región para superar los principales obstáculos del comercio. El Proyecto asiste a los principales actores del comercio, tanto del sector público como del sector privado con el objetivo de optimizar tiempos y contribuir a la reducción de costos.&#xa;&#xa;2. ¿Cómo aproyan al sector privado en la región?&#xa;R// Para USAID trabajar en conjunto con el sector privado es clave debido a su rol fundamental para el desarrollo sostenible al ser los generadores de fuentes de empleo.&#xa;Asesoramos a empresas en el proceso para habilitarse como Operador Económico Autorizado. Obtener esta certificación de parte de las autoridades aduaneras, abre puertas a las empresas a mercados internacionales, al operar de manera eficiente y en cumplimiento de los más altos estándares de calidad. &#xa;&#xa;&#xa;3. ¿Cómo puede mi empresa recibir asistencia técnica?&#xa;R// El Proyecto de USAID asiste a las empresas para realizar una autoevaluación para identificar el grado de cumplimiento de requisitos OEA. Con base a estos resultados, el Proyecto acompaña a las empresas en la preparación y presentación de sus aplicaciones ante la SAT. &#xa;&#xa;4. ¿Dónde puedo recibir más información?&#xa;R// Dando click en el botón de formulario para dejar sus datos de contacto. " id="PREGUNTAS Y RESPUESTAS" pan="-338" skinid="ht_info" url=""/>
+      <hotspot target="" tilt="-0.63" title="VIDEO USAID " description="" id="VIDEO USAID " pan="-10.91" skinid="ht_video_url" url="https://player.vimeo.com/external/589401095.hd.mp4?s=02139bec7078a04404fc85cca1e4b7e6eca778e7&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="_blank" tilt="-10.44" title="FORMULARIO DE CONTACTO USAID " description="&#x9;&#x9;" id="USAID FORM" pan="-18.48" skinid="ht_url" url="https://forms.gle/FiYL3Nub6EMfoTbe9"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node9" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="26.25" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-332.59" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-12.65" title="ZOLIC" description="1. ¿Qué es Zolic?&#xa;R// La Zona Libre de Industria y Comercio “Santo Tomás de Castilla” es un espacio ubicado en Puerto Barrios Izabal, para impulsar su empresa o negocio con beneficios fiscales y un centro logístico estratégico de comercio nacional e internacional. La ley de Zolic también permite la creación de Zonas de Desarrollo Económico Especial Públicas – ZDEEP-. &#xa;Se Estas Zonas Libres con los fines de promover el desarrollo industrial y comercial del país&#xa;&#xa;2. ¿Qué es una ZDEEP?&#xa;R// Zonas de Desarrollo Económico Especial Públicas – ZDEEP- son áreas extra aduanales que pueden ubicarse en cualquier parte del territorio nacional, y en ellas pueden operar los sectores de industria, comercio o los servicios. &#xa;Los usuarios gozan de exenciones fiscales temporales o sea beneficios sobre impuestos de importación y exportación a cambio de traer empleo y desarrollo a nuestro país.&#xa;&#xa;3. ¿Qué es un área extra aduanal?&#xa;R// Es un área física vigilada donde se permite ingresar a una parte delimitada del territorio nacional mercancías que se consideran como si no estuviesen en el territorio aduanero, con respecto a los derechos e impuestos de importación.&#xa;&#xa;4. ¿Cuáles son los beneficios fiscales de una Zona Libre?&#xa;R// - Exención del 100% del ISR por 10 años. También aplica a dividendos y utilidades que se distribuyan a usuarios y sus accionistas. El usuario ZDEEP no podrá obtener este beneficio por las rentas o ventas de la propiedad, únicamente por los servicios prestados a los usuarios de la misma.&#xa;- Suspensión temporal del IVA, derechos arancelarios y demás cargos en la importación de mercancías que ingresen a la zona (materias primas, insumos, materiales, productos intermedios, maquinaria, equipo, repuestos y accesorios) hasta que sea importada la mercancía al Territorio Aduanero Nacional.&#xa;- Exención IVA por los hechos y actos gravados realizados dentro de la zona libre cuando sean exportados al comercio exterior.&#xa;- Exención de timbres fiscales, sobre los documentos que contienen actos o contratos sobre bienes y negocios en la zona Las mercancías no causan abandono (una vez esté el contrato vigente).&#xa;- El Estado o las Municipalidades podrán otorgar incentivos no fiscales a usuarios determinados. &#xa;- Exoneración de tasas de importación y exportación de materias primas, insumos, maquinarias , equipos, mercancías y servicios dentro de la Zona Libre&#xa;&#xa;5. ¿Cuántas ZDEEP hay actualmente? &#xa;R// Hasta el momento la Junta Directiva de Zolic, ha autorizado la instalación de 8 Zonas Libres (tres cuentan también con la autorización de la Superintendencia de Administración Tributaria -SAT-) y 2 están en proceso para un total de 10.&#xa;- Escuintla:&#xa;Michatoya Pacífico, Zona Libre Quetzal, Puma I y Puma II y Zona Libre Mauricio.&#xa;- Izabal:&#xa;Zona Libre Santander y Zona de Desarrollo&#xa;- Zacapa:&#xa;Miel Verde y Zona Libre Gualán&#xa;- San Marcos:&#xa;Puerta del Istmo" id="PREGUNTAS Y RESPUESTAS " pan="-4.79" skinid="ht_info" url=""/>
+      <hotspot target="" tilt="-1.29" title="ZOLIC VIDEO " description="" id="VIDEO ZOLIC" pan="-0.19" skinid="ht_video_url" url="https://vimeo.com/590836611/3753b38551"/>
+      <hotspot target="_blank" tilt="-2.97" title="ZOLIC" description="" id="ZOLIC" pan="-349.67" skinid="ht_url" url="https://zolicguate.com"/>
+      <hotspot target="_blank" tilt="-3" title="ZDEEP ZOLIC " description="" id="ZDEEP ZOLIC" pan="-10.79" skinid="ht_url" url="https://zolicguate.com/zdeep/"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node10" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="24.98" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-333.52" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.89" title="ALPASA" description="1. ¿Qué necesito para almacenar mi mercadería?&#xa;R// Requerimos conocer que tipo de mercadería es, como viene embalada, cuanto tiempo te interesa almacenar&#xa;&#xa;2. ¿Cuántos días tengo en aduana interna G3 para pagar impuestos?&#xa;R// Cuentas con 20 días hábiles para realizar el pago de los impuestos &#xa;&#xa;3. ¿Cuánto tiempo tengo en aduana AP1 para pagar impuestos?&#xa;R// En el almacén fiscal AP1 de Alpasa cuentas con un año&#xa;&#xa;4. ¿Cómo obtengo más información de Alpasa?&#xa;R// Puedes ingresar a www.alpasa.com.gt o escribirnos a mercadeo@alpasa.com.gt PBX. 2427-4600&#xa;&#xa;5. ¿Cuál es el horario de Alpasa?&#xa;R// De lunes a viernes de 07:00 a 16:00 horas.&#xa;Recepción de contenedores 24/7&#xa;" id="PREGUNTAS Y RESPUESTAS " pan="-4.78" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-2.4" title="ALPASA " description="" id="ALPASA" pan="-349.66" skinid="ht_url" url="https://alpasa.com.gt/"/>
+      <hotspot target="" tilt="-2.31" title="VIDEO ALPASA " description="" id="VIDEO ALPASA " pan="-11.12" skinid="ht_video_url" url="https://player.vimeo.com/external/584071565.hd.mp4?s=4630f2f7d1193ee5cfd89fa2ecb2d76eb4a9f926&amp;profile_id=174"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node11" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="25.32" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-333.22" skinid="ht_node" url="{node1}"/>
+      <hotspot target="_blank" tilt="-2.74" title="UPS" description="" id="UPS" pan="-349.12" skinid="ht_url" url="http://www.ups.com"/>
+      <hotspot target="" tilt="-2.43" title="UPS VIDEO " description="" id="UPS VIDEO " pan="-10.11" skinid="ht_video_url" url="https://player.vimeo.com/external/580052292.hd.mp4?s=a01d3d81b49bfa6d9febe1ce543dd3ccc1c5c837&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node12" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="25.07" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-333.23" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.82" title="ATA " description="1. ¿Quiénes somos?&#xa;R// Servicios Integrados ATA es una empresa orientada a brindar servicios integrados en el campo del comercio&#xa;exterior guatemalteco, brindamos asesoría en comercio internacional, importación y exportación.&#xa;&#xa;2. ¿En dónde estamos ubicados?&#xa;R// Nuestras Oficinas centrales están ubicadas en la  6 avenida 8-20, zona 9, Guatemala, también contamos con oficinas y personal propio en las principales aduanas del país.&#xa;&#xa;3. ¿Qué servicios ofrecemos?&#xa;R// Agenciamiento aduanal , Transporte de Carga Internacional, Distribucion Local, Proyectos especiales.&#xa;&#xa;4. ¿Qué certificaciones tenemos?&#xa;R// ISO 9001-2015 ; BASC 5-2017; OEA-GT&#xa;&#xa;5. Contacto&#xa;R// sales@ata.com.gt  / Tel: 502-2427-8256 / Móvil: 502-4149-4842 " id="PREGUNTAS Y RESPUESTAS" pan="-2.93" skinid="ht_info" url=""/>
+      <hotspot target="" tilt="-2.83" title="ATA VIDEO " description="" id="VIDEO ATA" pan="-347.68" skinid="ht_video_url" url="https://player.vimeo.com/external/582216356.hd.mp4?s=51930f7ac9f0b0350af6c1cb8a677640f6fb0ac2&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="_blank" tilt="-2.77" title="ATA" description="" id="ATA" pan="-9.99" skinid="ht_url" url="https://www.ata.com.gt/"/>
+      <hotspot target="_blank" tilt="-6.45" title="ATA CONTACTO " description="&#x9;" id="ATA CONTACTO " pan="-337.12" skinid="ht_url" url="https://www.ata.com.gt/contacto/"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node13" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="25.54" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-332.38" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.8" title="HUAWEI " description=" 1. ¿Cuáles son los beneficios de utilizar un router AX3 en mi oficina u hogar?&#xa;R// Gracias a sus 4 antenas el nuevo routers AX3 atraviesa pisos y paredes, permitiendo una potente señal optima y eficiente, este router es el doble de rápido vs un router convencional permitiendo hasta 128 dispositivos conectados.&#xa;&#xa;2. ¿Cuáles son los 3 puntos más relevantes de los nuevos y fabulosos Freebuds 4? &#xa;R// Una nueva experiencia con graves potentes, cancelación de ruido mejorada con Open Fit 2.0 y hasta 22 horas de reproducción con el estuche de carga.&#xa;&#xa;3. Huawei cada vez más un paso adelante, la nueva Matestation S es la revolución de las computadoras de escritorio, esta cuenta con un diseño super compacto, un poderoso desempeño con procesador Ryzen y conexión con Huawei Multipantalla mediante el teclado. &#xa;R// Verdadero &#xa;&#xa;4. Huawei Sound cuenta con una calidad impresionante de sonido y diseño acabado de piano, con quien trabaja en conjunto en co ingeniería para el desarrollo de esta bocina. &#xa;R// Devialet&#xa;&#xa;5. ¿Cuál es el ADN de las Matebook X Pro Series? &#xa;- Diseño vanguardista con pantallas Fullview, Camara retráctil y cuerpo ultra delgado.&#xa;- Poderoso desempeño con procesadore de onceava generación&#xa;- Innovación tecnológica con el Sensor de huella y Huawei Multi pantalla" id="PREGUNTAS Y RESPUESTAS " pan="-2.67" skinid="ht_info" url=""/>
+      <hotspot target="" tilt="-2.73" title="VIDEO HUAWEI " description="" id="VIDEO HUAWEI " pan="-347.81" skinid="ht_video_url" url="https://vimeo.com/590854678/b6829903e0"/>
+      <hotspot target="" tilt="-2.74" title="VIDEO HUAWEI " description="" id="VIDEO HUAWEI " pan="-10.25" skinid="ht_video_url" url="https://vimeo.com/590852673/b6d9cd2647"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node14" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="25.2" title="MAPA DE STANDS" description="" id="MAPA DE STANDS" pan="-333.92" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.31" title="AMBEV " description="1. ¿Quiénes somos?&#xa;R// Cervecería Ambev forma parte del grupo AB-Inbev, la compañía cervecera más grande del mundo y ofrecemos un amplio portafolio de marcas globales de reconocida calidad y prestigio.&#xa;&#xa;2. ¿Cuál es nuestro propósito?&#xa;R// Unir a las personas por un Mundo Mejor.&#xa;&#xa;3. ¿Conoces cuáles son nuestras Marcas Globales?&#xa;R// Cerveza Corona, Modelo Especial, Michelob, Stella Artois, Brahva, Budweiser,  Bud Light, Negra Modelo, Busch Light, Becks.&#xa;&#xa;4. ¿Conoces nuestra plataforma de sostenibilidad?&#xa;R// Se divide en tres pilares fundamentales: &#xa;Consumo Responsable, Medio Ambiente y Comunidades&#xa;&#xa;5. ¿De qué forma apoyamos a la cadena de suministros segura?&#xa;R// Siguiendo normas de alto nivel en gestión de procesos y estándares internacionales de seguridad a través del Programa Operador Económico Autorizado (OEA)" id="PREGUNTAS Y RESPUESTAS " pan="-4.16" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-2.52" title="AMBEV " description="" id="AMBEV" pan="-350.34" skinid="ht_url" url="https://ambev-ca.com"/>
+      <hotspot target="" tilt="-1.41" title="VIDEO AMBEV" description="" id="VIDEO AMBEV" pan="-359.95" skinid="ht_video_url" url="https://player.vimeo.com/external/582745861.hd.mp4?s=3e85623f345121b3054775b68c2f892d10ca95b6&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="_blank" tilt="-2.42" title="CONTACTO AMBEV " description="" id="CONTACTO AMBEV" pan="-11.35" skinid="ht_url" url="https://ambev-ca.com/contacto/"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node15" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="24.59" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-334.25" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.39" title="CLT" description="1. ¿Qué es GRUPO BALU?&#xa;R// Grupo de empresas dedicadas a proveer servicios y soluciones integrales en logística intermodal, en materia de transporte terrestre cualquier modalidad, mantenimiento y reparación de todo tipo de contenedores, seguridad intermodal física y tecnológica, agenciamiento de carga y representaciones.&#xa;&#xa;2. ¿Qué es CLT?&#xa;R// Compañía de Logística y Transporte, S.A. Traslado de contenedores secos, refrigerados, desde y/o hacia terminales portuarias, transporte en furgones secos, manejo de carga sobre pesada y sobredimensionada, alquiler de contenedores secos y refrigerados para para bodega, transporte de carga en general, con cobertura en Centro América y sur de México.&#xa;&#xa;3. ¿Qué es Intersec?&#xa;R// Intermodal Safe Control, empresa dedicada a proveer servicios de Seguridad Intermodal con custodios armados, vehículos patrullas y servicio de ruta controlada mediante GPS portátiles y fuerza de reacción en ruta.&#xa;&#xa;4. ¿Qué es Marex?&#xa;R// Maritima Express servicio de manejo internacional de carga “Freigth Foward”, agencia de aduanas, servicios logísticos integrales en general.&#xa;&#xa;5. ¿Qué es S&amp;T?&#xa;R// Servicios y Terminales, S.A. empresa dedicada  al almacenaje, mantenimiento y reparación de todo tipo de contenedores, operando con 8 terminales en Guatemala, El Salvador y Honduras." id="PREGUNTAS Y RESPUESTAS" pan="-1.99" skinid="ht_info" url=""/>
+      <hotspot target="" tilt="-2.17" title="CLT VIDEO " description="" id="VIDEO CLT" pan="-349.01" skinid="ht_video_url" url="https://player.vimeo.com/external/582650872.hd.mp4?s=b3318176b86cd53cffc1cbac6f8a9c1d8e703f8f&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="_blank" tilt="-2.54" title="CLT " description="" id="CLT" pan="-10.67" skinid="ht_url" url="https://www.transporteclt.com/"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node16" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="25.84" title="MAPA DE STANDS " description="" id="MAPA DE STANDS" pan="-333.73" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-11.9" title="CPS " description="1. ¿Qué es CPS?&#xa;R// WE MAKE SHIP HAPPEN. Brindamos soluciones innovadoras de logística y transporte alrededor del mundo.&#xa;Contamos con un Centro de Distribución en Miami (DC Miami)&#xa;Oficinas en Centro América&#xa;Red Global de agentes&#xa;Movemos carga desde cualquier origen hacia cualquier destino&#xa;&#xa;2. ¿Qué servicios ofrecen?&#xa;R// • Servicios aduanales&#xa;• Aéreo&#xa;• Marítimo&#xa;• Terreste&#xa;• FullFilment&#xa;• Last Mile Delivery&#xa;• Bonded&#xa;        o Aprobada por Aduanas Fronterizas y Protección CBP&#xa;        o Container Freight Station &#xa;        o Bonded Warehouse &#xa;&#xa;• Multimodal&#xa;        o Unión Asia – Norte América – Europa&#xa;        o Ocean Premium – 10 días en LCL hasta almacenadora&#xa;&#xa;3. ¿Cómo puedo cotizar un servicio?&#xa;R// Cotiza un servicio enviando un correo a info@cpslogistics.com o llamando al PBX 24292700&#xa;" id="PREGUNTAS Y RESPUESTAS " pan="-4.63" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="-4.72" title="SERVICIOS CPS " description="" id="SERVICIOS CPS" pan="-338.68" skinid="ht_url" url="http://www.cpslogistics.com/index.html#services"/>
+      <hotspot target="" tilt="-2.18" title="CPS VIDEO " description="" id="CPS VIDEO " pan="-350.33" skinid="ht_video_url" url="https://player.vimeo.com/external/579402221.hd.mp4?s=e8b5d43136fc3a19ae95e9f458897b1107887723&amp;profile_id=174&amp;oauth2_token_id=917749229"/>
+      <hotspot target="" tilt="-2.53" title="CPS Logistics " description="" id="CPS" pan="-11.45" skinid="ht_video_youtube" url="uY1dNLszP_g"/>
+      <hotspot target="_blank" tilt="-6.74" title="CONTACTO CPS" description="" id="CONTACTO CPS" pan="-24.24" skinid="ht_url" url="http://www.cpslogistics.com/index.html#contactus"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node17" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="19.21" title="MAPA DE STANDS " description="" id="MAPA DE STANDS " pan="-333.76" skinid="ht_node" url="{node1}"/>
+      <hotspot target="_blank" tilt="20.61" title="OEA SAT " description="" id="OEA SAT" pan="-19.74" skinid="ht_url" url="https://portal.sat.gob.gt/portal/operador-economico-autorizado/"/>
+      <hotspot target="" tilt="10.23" title="OEA SAT " description="" id="OEA SAT" pan="-19.47" skinid="ht_video_vimeo" url="583585401/2109b130f9"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node18" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="" tilt="20.61" title="MAPA DE STANDS " description="" id="MAPA DE STANDS " pan="-334.59" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="11.85" title="AGEXPORT Español" description="" id="VIDEO " pan="-21.21" skinid="ht_video_youtube" url="m0GMvcUKLcE"/>
+      <hotspot target="_blank" tilt="22.29" title="¿Cómo Asociarme? AGEXPORT" description="" id="AGEXPORT" pan="-21.19" skinid="ht_url" url="https://export.com.gt/publico/comision-knowledge-process-outsourcing-kpo"/>
+      <hotspot target="" tilt="-11.09" title="AGEXPORT" description="1. ¿Qué beneficios obtengo al momento de suscribirme a Agexport? &#xa;R//  a.  Diagnostico empresarial.&#xa;b. Acompañamiento en la internacionalización de sus servicios.&#xa;c. Encuentros de negocios.&#xa;d. Formación empresarial.&#xa;e. Networking.&#xa;f. Promoción y publicidad.&#xa;g. Representatividad.&#xa;&#xa;2. ¿Cómo me inscribo como socio en Agexport?&#xa;R// Únicamente llenar un formulario electrónico proporcionado por el consultor de negocios y adjuntar los siguientes documentos:&#xa;i. Patente de comercios y/o sociedad (cuando aplique)&#xa;ii. Acta de Constitución de Sociedad (cuando aplique)&#xa;iii. Registro Tributario Unificado (RTU)&#xa;iv. Solvencia Fiscal SAT&#xa;v. Número de colegiado activo (cuando aplique)&#xa;vi. Documento Personal de Identificación (DPI)&#xa;vii. Copia del recibo de agua o luz reciente&#xa;&#xa;3. ¿Qué costo tiene la membresía Agexport?&#xa;R// Tiene un costo desde Q4,960.00 anuales, contamos con planes de pago sin recargo:&#xa;A. Trimestral.&#xa;B. Semestral.&#xa;C. Anual.&#xa;&#xa;4. ¿Cómo puedo realizar los pagos?&#xa;R// Contamos con medios de pago con:&#xa;A. Tarjeta de crédito o débito.&#xa;B. Transferencias bancarias.&#xa;C. Efectivo o cheque&#xa;&#xa;5. ¿Con quién puedo contactarme para la inscripción Agexport? &#xa;R//  Jorge Luis Paredes Berducido, consultor de negocios para la internacionalización, teléfono 2422-3686 móvil institucional 4130-0671" id="PREGUNTAS Y RESPUESTAS " pan="-5.18" skinid="ht_info" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node19" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="19.4" title="MAPA DE STANDS " description="" id="MAPA DE STANDS " pan="-334.97" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="21.08" title="Cámara de Industria de Guatemala" description="" id="CIG " pan="-20.51" skinid="ht_video_youtube" url="hCZKS7jJjd8"/>
+      <hotspot target="_blank" tilt="10.99" title="Dossier OEA Julio 2021" description="" id="Dossier OEA Julio 2021" pan="-20.57" skinid="ht_url" url="https://www.dropbox.com/s/sw9j5oaps48tytx/Dossier%20OEA%20Julio%202021.pdf?dl=0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node20" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="20.03" title="MAPA DE STANDS " description="" id="MAPA DE STANDS " pan="-331.44" skinid="ht_node" url="{node1}"/>
+      <hotspot target="_blank" tilt="22.81" title="AES" description="" id="AES" pan="-19.56" skinid="ht_url" url="https://aes.org.co/"/>
+      <hotspot target="_blank" tilt="11.52" title="AES Linktr.ee" description="" id="AES Linktr.ee" pan="-19.74" skinid="ht_url" url="https://linktr.ee/aesscs"/>
+      <hotspot target="" tilt="-11.7" title="ASOCIACIÓN DE EMPRESAS SEGURAS (AES)" description="1. ¿Deseas adquirir conocimientos y competencias en requisitos y controles para la seguridad de la cadena de suministros?&#xa;R// La Asociación de Empresas Seguras, AES, cuenta con un área especializada en formación, con más de 23 años de historia y apoyando el desarrollo de competencias con formaciones y entrenamientos de calidad bajo la modalidad presencial, online y a distancia, en temas de seguridad para la cadena de suministros en temas como:&#xa;- Gestión de requisitos y controles para el Operador Económico Autorizado (OEA)&#xa;- Formación de Auditores en Sistemas de Gestión (ISO 28000, 28001, 18788, 31001, 9001, 19011, 37001, 39001, 45001, 14001)&#xa;- Cursos modelo OMI (Organización Marítima Internacional), en el marco del Código de Protección de Buques e Instalaciones Portuarias (ISPS)&#xa;Contacto: dircapacitacion@aes.org.co &#xa;WhatsApp: +57 314 6202286&#xa;&#xa;2. ¿Sabías que somos especialistas en seguridad para la cadena de suministros? &#xa;R// AES cuenta con Certificaciones de la norma ISO 28000/28001 enfocadas en cadena de suministros alineadas a los estándares internacionales del operador económico autorizado. &#xa;Contacto: dirtecnica@aes.org.co&#xa;WhatsApp: +57 313 7587133&#xa;&#xa;3. ¿Auditan a socios comerciales en temas OEA, en cualquier parte del mundo?&#xa;R// Actualmente contamos con nuestro Programa de Varificación de Proveedores PVP, en donde adelantamos visitas de verificación en los requisitos mínimos de seguridad OEA en toda Latinoamérica, Estados Unidos, Europa y Asia, en colaboración con nuestros directores y aliados en cada país. &#xa;Contacto: dirtecnica@aes.org.co&#xa;WhatsApp: +57 313 7587133&#xa;&#xa;4. Conoce el programa OEA, el cual genera beneficios otorgados por las autoridad de control para agilizar las operaciones de comercio internacional&#xa;R// El programa OEA es una autorización que emite la aduana de cada país a las empresas que son reconocidas como seguras y confiables tras un proceso de validación en la Organización, ¡AES le ayuda a implementar el programa OEA!&#xa;Contacto: amcosme@aes.org.co&#xa;WhatsApp: +57 314 6209846&#xa;&#xa;5. ¿Ya fue reconocido como operador seguro OEA y desea mantener los requisitos? &#xa;R// AES le acompaña en las actividades para mantener su autorización como OEA, realizando auditorías internas, gestionando los riesgos de seguridad en la cadena de suministro, brindando acompañamiento para identificar oportunidades de mejora y acciones correctivas en su SG, realizando capacitaciones especializadas, generando apoyo ante la respuesta a los requerimientos de aduana y visitando a sus asociados de negocio entre otros beneficios, a la medida de su compañía. &#xa;Contacto: amcosme@aes.org.co&#xa;WhatsApp: +57 314 6209846" id="PREGUNTAS Y RESPUESTAS " pan="-0.580007" skinid="ht_info" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node21" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="20.28" title="MAPA DE STANDS " description="" id="MAPA DE STANDS " pan="-331.32" skinid="ht_node" url="{node1}"/>
+      <hotspot target="_blank" tilt="22.36" title="APM Terminals Quetzal" description="" id="APM TERMINALS" pan="-19.15" skinid="ht_url" url="https://portal.apmterminalsquetzal.com/servicios-en-linea"/>
+      <hotspot target="" tilt="11.76" title="APM Terminals Quetzal" description="" id="Video APM" pan="-18.47" skinid="ht_video_youtube" url="7SGXWElpAqM"/>
+      <hotspot target="" tilt="-10.8" title="APM TERMINALS " description="1. ¿Quiénes somos?&#xa;R// APM Terminals es una empresa comprometida con la modernización y optimización de terminales portuarias. Abre operaciones en Guatemala como APM Terminals Quetzal en 2017 con una terminal especializada en contenedores. Tiene una capacidad de producción anual de 340,000 TEU y actualmente es la instalación más grande especializada en contenedores entre el puerto de Lázaro Cárdenas en México y el Canal de Panamá, en la costa oeste de Centroamérica.&#xa;&#xa;2. ¿Cuál es nuestra trayectoria a nivel mundial?&#xa;R// APM Terminals forma parte de A.P. Moller Maersk, una empresa integrada de logística de contenedores que trabaja para conectar y simplificar las cadenas de suministro de sus clientes. Con sede en La Haya, Países Bajos. APM Terminals trabaja a nivel mundial con líneas navieras, importadores, exportadores, gobiernos, líderes empresariales y toda la cadena de suministro global para proporcionar soluciones que ayuden a las naciones y empresas a alcanzar sus objetivos.&#xa;Actualmente APM Terminals está presente en Estados Unidos, Argentina, Brasil, Colombia, Guatemala, México, Perú y Costa Rica.&#xa;&#xa;3. ¿Qué ofrecemos a nuestros clientes?&#xa;R// APM Terminals está comprometido en ofrecer operaciones confiables, seguras, trazables y eficientes con un enfoque de mejora continua y flexible. Todo esto acompañado de soluciones digitales innovadoras que permiten a los clientes solicitar sus servicios de forma rápida y sencilla. &#xa;&#xa;4. ¿Cuáles son nuestros servicios?&#xa;R// APM Terminals Quetzal presta el servicio de carga y descarga de contenedores en Puerto Quetzal, Escuintla, tiene la capacidad de recibir buques de mayor calado y reducir los tiempos de procesos administrativos y logísticos. En el año 2020 atendió a 318 buques y movilizó 344,452 TEUs. Adicionalmente presta servicios fundamentales para un puerto de contenedores, dentro de los cuales se encuentra, almacenaje, inspecciones y fumigaciones para carga refrigerada y seca. &#xa;&#xa;5. ¿Te gustaría obtener más información sobre la compañía?&#xa;R// Para conocer más información sobre APM Terminals Quetzal puedes ingresar a www.apmterminals.com PBX: (+502) 7929-2900 o al correo servicioalclientegtm@apmterminals.com " id="PREGUNTAS Y RESPUESTAS " pan="-4.77" skinid="ht_info" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node22" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="20.96" title="MAPA DE STANDS " description="" id="MAPA DE STANDS " pan="-332.67" skinid="ht_node" url="{node1}"/>
+      <hotspot target="_blank" tilt="22.88" title="Carga Global Contacto " description="" id="Carga Global Contacto " pan="-21.64" skinid="ht_url" url="https://cargaglobal.com/land-oea-2021"/>
+      <hotspot target="_blank" tilt="11.37" title="Carga Global " description="" id="Carga Global " pan="-21.57" skinid="ht_url" url="https://cargaglobal.com/"/>
+      <hotspot target="" tilt="-11.83" title="CARGA GLOBAL " description="1. ¿Qué caracteriza a Carga Global?&#xa;R// Somos una empresa de Personas para Personas, el transporte de carga es nuestro negocio. Agregarle valor al servicio es la expresión de nuestra esencia. &#xa;&#xa;2. ¿Cómo puedo cotizar con ustedes?&#xa;R// Puedes llamarnos a:&#xa;Guatemala: +502 2318-6600&#xa;El Salvador: +503 2556-1300 / 01&#xa;También nos encuentras en: &#xa;Facebook: https://www.facebook.com/CargaGlobal &#xa;Instagram: https://www.instagram.com/cargaglobal/&#xa;LinkedIn: https://www.linkedin.com/company/cargaglobal/&#xa;O bien puedes visitar nuestro sitio web: www.cargaglobal.com&#xa;¡Estamos para servirte! &#xa;&#xa;3. ¿Qué servicios ofrecen?&#xa;R// Contamos con una amplia variedad de servicios a tu medida. &#xa;Somos una empresa que brinda soluciones intgrales de transporte terrestre a Centro América y México, carga aérea, transporte marítimo, carga consolidada a más de 360 destinos alrededor del mundo, logística aduanal y servicios de cero sopresas. &#xa;Dentro de nuestros servicios encuentras:&#xa;-Carga Aérea: Evía tu carga de importación o exportación optimizando tiempo y costo. &#xa;-Carga Consolidada: Recogemos o recibimos tu carga en nuestras bodegas alrededor del mundo para ser entregada a su destino. &#xa;-Transporte Marítimo: amplia experiencia en el manejo para tus importaciones y exportaciones de contenedores completos; contamos con alianzas sólidas con las navieras más importantes del mundo. &#xa;-Transporte Terrestre: Cobertura Centroamericana, Panamá y México. Envía tu carga seca en furgones completos (FTL), Carga Consolidada (LTL) o Carga Sobredimensionada, brindando un seguimiento claro y preciso. &#xa;-Logística Aduanal: con un equipo altamente experimentado realizamos tus trámites aduanales. &#xa;-Servicios a tu medida: con nuestro equipo de profesionales adaptanos nuestros servicios a todas tus necesidades logísticas. &#xa;Recuerda que estamos para servirte, puedes llamarnos a: &#xa;Guatemala: +502 2318-6600&#xa;El Salvador: +503 2556-1300 / 01&#xa;¡Te Esperamos! &#xa;&#xa;4. ¿Qué orígenes manejan para Carga Consolidada?&#xa;R// Manejamos muchos orígenes como China, EEUU, Canadá, Colombia, Brasil y Europa, consulta por el origen y destino que te interesa y con gusto te asesoraremos para brindarte la mejor solución a tu medida. &#xa;Puedes llamarnos a: &#xa;Guatemala: +502 2318-6600&#xa;El Salvador: +503 2556-1300 / 01&#xa;O bien escribirnos por cualquiera de nuestros canales digitales donde gustosamente te atenderemos para ofrecerte una cotización con servicios 100% a tu medida: &#xa;Facebook: https://www.facebook.com/CargaGlobal &#xa;Instagram: https://www.instagram.com/cargaglobal/&#xa;LinkedIn: https://www.linkedin.com/company/cargaglobal/&#xa;Sitio web: www.cargaglobal.com&#xa;¡Te Esperamos! " id="PREGUNTAS Y RESPUESTAS" pan="-6.56" skinid="ht_info" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" width="2048" levelingpitch="0" overlap="1" height="2048" leveltilesize="510">
+      <level preload="0" predecode="0" width="2048" height="2048"/>
+      <level preload="0" predecode="0" width="1024" height="1024"/>
+      <level preload="0" predecode="0" width="512" height="512"/>
+      <level preload="1" predecode="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="270" tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata copyright="" latitude="" author="" source="" tags="360" title="" description="" nodeid="node23" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" wordwrap="1" enabled="1" border="1" borderalpha="1" textalpha="1" bordercolor="0x000000" width="180" background="1" textcolor="0x000000" height="20" borderradius="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot target="-0.3/-39.8/63.9" tilt="22.98" title="MAPA DE STANDS" description="" id="MAPA DE STANDS " pan="-331.19" skinid="ht_node" url="{node1}"/>
+      <hotspot target="" tilt="-13.55" title="AR PRODUCCIONES " description="1. ¿Necesita producir Eventos en Vivo?&#xa;R// Somos especialistas en producción de transmisión de eventos en vivo, utilizamos equipos profesionales, multicámara, consolas de video, consolas de audio, micrófonos dedicados, codificadores de video, y personal especializado, para que su transmisión sea estable y visualmente profesional. No arriesgue su evento, somos expertos en transmisiones en vivo&#xa;&#xa;2. ¿Necesita un video de presentación, corporativo o informativo? &#xa;R// Nuestra experiencia de las de 20 años en producción profesional de video, respaldan nuestro trabajo y trayectoria, para producir videos corporativos, o informativos, los cuales son una herramienta de mucho peso, para su promoción comercial. Somos un equipo dedicado, a cubrir sus proyectos, desde la pre-producción, la producción y post-producción de sus proyectos. &#xa;&#xa;3. ¿Necesita grabación profesional de video, reportajes o coberturas corporativas?&#xa;R// Nuestros equipos de grabación profesional, le ofrecen, cubrir sus eventos corporativos, y crear un video resúmen de presentación, el cual es muy funcional, para promocionar y posicionar su proyecto o evento. &#xa;&#xa;4. Fotografía Profesional &#xa;R// Ponemos a su disposición servicios profesionales de fotografía, corporativa, fotografía de producto, coberturas de eventos especiales, etc.&#xa;&#xa;5. Videos explicativos&#xa;R// Los videos explicativos, son videos animados en los cuales se presentan información mercadológica, con diversas técnicas, entre ellas la animación 2D, que son de vital importancia, para conectar con sus públicos meta. " id="PREGUNTAS Y RESPUESTAS " pan="-12.47" skinid="ht_info" url=""/>
+      <hotspot target="_blank" tilt="11.92" title="AR PRODUCCIONES " description="" id="AR PRODUCCIONES URL" pan="-22" skinid="ht_url" url="https://arproducciones.tv/"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomafterinfov="90" type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" zoomout="0" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" simulatemass="1" rubberband="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" latitude="" author="" source="" tags="" title="" description="" nodeid="master" datetime="" info="" heading="0" comment="" longitude="" customnodeid=""/>
+  </masternode>
+</tour>
